@@ -12,3 +12,5 @@
 If the problem is within steps 1-4, it is an implementation problem, if the problem is within step 5, it is an implementation problem.
 
 Syntax – Set of rules that apply to the programming language. Computer expects everything to be perfect, if not then your codes will be denied.
+
+TEST
